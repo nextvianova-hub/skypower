@@ -1,5 +1,5 @@
 // Sky Power Solutions – offline support. Change VERSION after every site update.
-const VERSION = "skypower-v3";
+const VERSION = "skypower-v4";
 const CORE = ["./", "index.html", "manifest.webmanifest", "img/icon-192.png", "img/icon-512.png", "img/hero.jpg", "img/favicon.png"];
 
 self.addEventListener("install", e => {
