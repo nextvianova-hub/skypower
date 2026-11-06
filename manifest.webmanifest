@@ -1,0 +1,24 @@
+{
+  "name": "Sky Power Solutions",
+  "short_name": "Sky Power",
+  "description": "Solar panels, hybrid inverters and battery systems in Sri Lanka. Savings calculator, hybrid sizer and free site visit booking.",
+  "id": "./",
+  "start_url": "./?source=app",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#062A63",
+  "lang": "en",
+  "categories": ["business", "utilities"],
+  "icons": [
+    { "src": "img/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "img/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "img/icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "img/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Book a free site visit", "short_name": "Book visit", "url": "./?source=app#book", "icons": [{ "src": "img/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Savings calculator", "short_name": "Calculator", "url": "./?source=app#savings", "icons": [{ "src": "img/icon-192.png", "sizes": "192x192" }] }
+  ]
+}
