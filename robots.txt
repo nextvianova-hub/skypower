@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://skypowersolutions.pages.dev/sitemap.xml
